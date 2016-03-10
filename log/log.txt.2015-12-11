@@ -1,0 +1,624 @@
+2015-12-11 11:02:21,740 - Server shut down!
+ 2015-12-11 11:03:43,419 - initial SQLServer configuration done!
+ 2015-12-11 11:03:45,906 - Inital Connection pool Done!
+ 2015-12-11 11:03:45,988 - Redis intial done!
+ 2015-12-11 11:03:45,988 - service started!
+ 2015-12-11 11:05:31,201 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 11:05:32,386 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 11:05:32,387 - Transaction cost time: 1184
+ 2015-12-11 11:05:32,388 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 11:05:47,377 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 11:05:47,378 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-11 11:05:47,655 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-11 11:05:47,655 - Transaction cost time: 276
+ 2015-12-11 11:05:47,656 - HTTP_reply>{"D21":"amsserver,amsserver_CCOG,ATS Server,Backup,BOD,BOD_CCOG,CDDS,Credit CM,CRM,CRM_client,CRMWS,CTF,CTFServer,CutLoss Engine,DatabaseCheck,DC2,DDS,DWIS,EOD,EOD_CCOG,eStatement,Fire,FIXClient,FIXServer,HoldFundGateway,HoldFundRelease,iTrader.net,ITS,ITS_BLP,ITS_Mobile,ITS2,iwTrader,ManuExch,MarginServer,MDFS,MDFS_OCG,MFTS,MoreInfo,MQ,MS SQL Server,MsgDelay,OMSAPILink,OMSAPILink_OCG,OMSAPILink_OCGDC,OMSMidSvr,OrderServer,ORS,OSKey,P&L Mon,PassiveQuote,PatsAPI.dll,PatsLink,PatsMDF,PatsPlus,PQ,RiskManager,Serman,SettlementClient,Speakorder,SSM,SysAdmin.net,SysAdminWS,TradeCollect,TradeCollect_CCOG,TradesReporter,UpdateSymbolLotSize,Voucher Server,Watch Server,WebSysAdmin,Windows OS","D44":"1"}
+ 2015-12-11 11:05:47,667 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 11:05:47,668 - Transaction cost time: 290
+ 2015-12-11 11:05:47,668 - HTTP_reply>{"D18":"ABCI,Ageas,BDA,Berich,CASH,CC,CCBI,CheongLee,ChinaSystem,CICC,CityInt,Concord,CPY,CSC,DAS,DataCenter,DBS Bank,EAA,eBsInternal,Enssence,Excalibur/DeltaWealth,FastTrack,FE,Fubon,Fulbright,Galaxy,Genting,GlobalX,Goldin,GZZQ,H&S,Halcyon,Hoi Tung,HoiTung,HTI,HuaNan,HuaTai,IBTS,Infast,JS,KGI,KGIA,KGI-I,KGIWM,Kingsway,LT,LuenFat,Magusta,MaxRich,Mega,Metro,Munsun,OP,OSK,PME,Polaris,Select,Sinopac永丰金证券,SIS,SpeedTrader,Support,TA,TCY,TG,TG-GZS,TOYO,TungTai,Unicorn,UnitedSimsen,VCL,WellHonest,Winfung,WingOn,Winland,Wintech,WinWhole,WinWin,WOC,Wocom,Yicko,YueXiu","D44":"1"}
+ 2015-12-11 11:05:55,541 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 11:05:55,549 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 11:05:55,550 - Transaction cost time: 7
+ 2015-12-11 11:05:55,556 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 11:06:36,519 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 11:06:36,555 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 11:06:36,556 - Transaction cost time: 37
+ 2015-12-11 11:06:36,557 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:35:43,157 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:35:44,763 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:35:44,763 - Transaction cost time: 1574
+ 2015-12-11 17:35:44,764 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:35:55,693 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:35:56,240 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:35:56,241 - Transaction cost time: 512
+ 2015-12-11 17:35:56,241 - HTTP_reply>{"D22":[{"D1":"DP151207103222307","D2":"CityInt","D13":"demo","D14":"2015-12-07 10:32:22","D8":"test"},{"D1":"DP151207090623245","D2":"CC","D13":"demo","D14":"2015-12-07 09:06:23","D8":"test"},{"D1":"DP151207090421322","D2":"ABCI","D13":"demo","D14":"2015-12-07 09:04:21","D8":"test"},{"D1":"DP151207090246369","D2":"WinWin","D13":"demo","D14":"2015-12-07 09:02:46","D8":"test"},{"D1":"DP151204164118234","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:41:18","D8":"test"},{"D1":"DP151204164054128","D2":"CSC","D13":"demo","D14":"2015-12-04 16:40:54","D8":"test"},{"D1":"DP151204163638792","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:36:38","D8":"test"},{"D1":"DP151204163146200","D2":"BDA","D13":"demo","D14":"2015-12-04 16:31:46","D8":"test"},{"D1":"DP151204163046587","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:30:46","D8":"test"},{"D1":"DP151204162801368","D2":"BDA","D13":"demo","D14":"2015-12-04 16:28:01","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:35:58,707 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:35:58,887 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:35:58,887 - Transaction cost time: 179
+ 2015-12-11 17:35:58,888 - HTTP_reply>{"D22":[{"D1":"DP151204150752574","D2":"OP","D13":"demo","D14":"2015-12-04 15:07:52","D8":"test"},{"D1":"DP151204150708983","D2":"ABCI","D13":"demo","D14":"2015-12-04 15:07:08","D8":"test"},{"D1":"DP151204150635760","D2":"WinWin","D13":"demo","D14":"2015-12-04 15:06:35","D8":"abc"},{"D1":"DP151204144637641","D2":"Wintech","D13":"ian","D14":"2015-12-04 14:46:37","D8":"test"},{"D1":"DP151204143820102","D2":"CPY","D13":"ian","D14":"2015-12-04 14:38:20","D8":"fyi"},{"D1":"DP151204143741412","D2":"Magusta","D13":"demo","D14":"2015-12-04 14:37:41","D8":"test"},{"D1":"DP151204141907045","D2":"DAS","D13":"demo","D14":"2015-12-04 14:19:07","D8":"test"},{"D1":"DP151204141237983","D2":"ABCI","D13":"demo","D14":"2015-12-04 14:12:37","D8":"t4est"},{"D1":"DP151204140932359","D2":"CCBI","D13":"demo","D14":"2015-12-04 14:09:32","D8":"test"},{"D1":"DP151204135218892","D2":"ABCI","D13":"demo","D14":"2015-12-04 13:52:18","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:36:29,906 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:36:29,979 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:36:29,979 - Transaction cost time: 71
+ 2015-12-11 17:36:29,980 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:36:33,385 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:36:33,427 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:36:33,427 - Transaction cost time: 42
+ 2015-12-11 17:36:33,428 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:36:36,701 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:36:36,739 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:36:36,739 - Transaction cost time: 37
+ 2015-12-11 17:36:36,740 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:36:56,550 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:36:56,581 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:36:56,581 - Transaction cost time: 31
+ 2015-12-11 17:36:56,582 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:37:02,244 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:37:02,289 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:37:02,289 - Transaction cost time: 45
+ 2015-12-11 17:37:02,290 - HTTP_reply>{"D22":[{"D1":"DP151207103222307","D2":"CityInt","D13":"demo","D14":"2015-12-07 10:32:22","D8":"test"},{"D1":"DP151207090623245","D2":"CC","D13":"demo","D14":"2015-12-07 09:06:23","D8":"test"},{"D1":"DP151207090421322","D2":"ABCI","D13":"demo","D14":"2015-12-07 09:04:21","D8":"test"},{"D1":"DP151207090246369","D2":"WinWin","D13":"demo","D14":"2015-12-07 09:02:46","D8":"test"},{"D1":"DP151204164118234","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:41:18","D8":"test"},{"D1":"DP151204164054128","D2":"CSC","D13":"demo","D14":"2015-12-04 16:40:54","D8":"test"},{"D1":"DP151204163638792","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:36:38","D8":"test"},{"D1":"DP151204163146200","D2":"BDA","D13":"demo","D14":"2015-12-04 16:31:46","D8":"test"},{"D1":"DP151204163046587","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:30:46","D8":"test"},{"D1":"DP151204162801368","D2":"BDA","D13":"demo","D14":"2015-12-04 16:28:01","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:37:06,354 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:37:06,371 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:37:06,371 - Transaction cost time: 16
+ 2015-12-11 17:37:06,372 - HTTP_reply>{"D22":[{"D1":"DP151204150752574","D2":"OP","D13":"demo","D14":"2015-12-04 15:07:52","D8":"test"},{"D1":"DP151204150708983","D2":"ABCI","D13":"demo","D14":"2015-12-04 15:07:08","D8":"test"},{"D1":"DP151204150635760","D2":"WinWin","D13":"demo","D14":"2015-12-04 15:06:35","D8":"abc"},{"D1":"DP151204144637641","D2":"Wintech","D13":"ian","D14":"2015-12-04 14:46:37","D8":"test"},{"D1":"DP151204143820102","D2":"CPY","D13":"ian","D14":"2015-12-04 14:38:20","D8":"fyi"},{"D1":"DP151204143741412","D2":"Magusta","D13":"demo","D14":"2015-12-04 14:37:41","D8":"test"},{"D1":"DP151204141907045","D2":"DAS","D13":"demo","D14":"2015-12-04 14:19:07","D8":"test"},{"D1":"DP151204141237983","D2":"ABCI","D13":"demo","D14":"2015-12-04 14:12:37","D8":"t4est"},{"D1":"DP151204140932359","D2":"CCBI","D13":"demo","D14":"2015-12-04 14:09:32","D8":"test"},{"D1":"DP151204135218892","D2":"ABCI","D13":"demo","D14":"2015-12-04 13:52:18","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:37:11,509 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:37:11,518 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-11 17:37:11,777 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-11 17:37:11,777 - Transaction cost time: 258
+ 2015-12-11 17:37:11,777 - HTTP_reply>{"D21":"amsserver,amsserver_CCOG,ATS Server,Backup,BOD,BOD_CCOG,CDDS,Credit CM,CRM,CRM_client,CRMWS,CTF,CTFServer,CutLoss Engine,DatabaseCheck,DC2,DDS,DWIS,EOD,EOD_CCOG,eStatement,Fire,FIXClient,FIXServer,HoldFundGateway,HoldFundRelease,iTrader.net,ITS,ITS_BLP,ITS_Mobile,ITS2,iwTrader,ManuExch,MarginServer,MDFS,MDFS_OCG,MFTS,MoreInfo,MQ,MS SQL Server,MsgDelay,OMSAPILink,OMSAPILink_OCG,OMSAPILink_OCGDC,OMSMidSvr,OrderServer,ORS,OSKey,P&L Mon,PassiveQuote,PatsAPI.dll,PatsLink,PatsMDF,PatsPlus,PQ,RiskManager,Serman,SettlementClient,Speakorder,SSM,SysAdmin.net,SysAdminWS,TradeCollect,TradeCollect_CCOG,TradesReporter,UpdateSymbolLotSize,Voucher Server,Watch Server,WebSysAdmin,Windows OS","D44":"1"}
+ 2015-12-11 17:37:11,879 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:37:11,880 - Transaction cost time: 367
+ 2015-12-11 17:37:11,880 - HTTP_reply>{"D18":"ABCI,Ageas,BDA,Berich,CASH,CC,CCBI,CheongLee,ChinaSystem,CICC,CityInt,Concord,CPY,CSC,DAS,DataCenter,DBS Bank,EAA,eBsInternal,Enssence,Excalibur/DeltaWealth,FastTrack,FE,Fubon,Fulbright,Galaxy,Genting,GlobalX,Goldin,GZZQ,H&S,Halcyon,Hoi Tung,HoiTung,HTI,HuaNan,HuaTai,IBTS,Infast,JS,KGI,KGIA,KGI-I,KGIWM,Kingsway,LT,LuenFat,Magusta,MaxRich,Mega,Metro,Munsun,OP,OSK,PME,Polaris,Select,Sinopac永丰金证券,SIS,SpeedTrader,Support,TA,TCY,TG,TG-GZS,TOYO,TungTai,Unicorn,UnitedSimsen,VCL,WellHonest,Winfung,WingOn,Winland,Wintech,WinWhole,WinWin,WOC,Wocom,Yicko,YueXiu","D44":"1"}
+ 2015-12-11 17:44:07,392 - initial SQLServer configuration done!
+ 2015-12-11 17:44:09,865 - Inital Connection pool Done!
+ 2015-12-11 17:44:09,940 - Redis intial done!
+ 2015-12-11 17:44:09,940 - service started!
+ 2015-12-11 17:51:12,628 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:51:12,933 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:51:12,933 - Transaction cost time: 305
+ 2015-12-11 17:51:12,934 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:51:24,141 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:51:24,149 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:51:24,150 - Transaction cost time: 8
+ 2015-12-11 17:51:24,153 - HTTP_reply>{"D22":[{"D1":"DP151207103222307","D2":"CityInt","D13":"demo","D14":"2015-12-07 10:32:22","D8":"test"},{"D1":"DP151207090623245","D2":"CC","D13":"demo","D14":"2015-12-07 09:06:23","D8":"test"},{"D1":"DP151207090421322","D2":"ABCI","D13":"demo","D14":"2015-12-07 09:04:21","D8":"test"},{"D1":"DP151207090246369","D2":"WinWin","D13":"demo","D14":"2015-12-07 09:02:46","D8":"test"},{"D1":"DP151204164118234","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:41:18","D8":"test"},{"D1":"DP151204164054128","D2":"CSC","D13":"demo","D14":"2015-12-04 16:40:54","D8":"test"},{"D1":"DP151204163638792","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:36:38","D8":"test"},{"D1":"DP151204163146200","D2":"BDA","D13":"demo","D14":"2015-12-04 16:31:46","D8":"test"},{"D1":"DP151204163046587","D2":"ABCI","D13":"demo","D14":"2015-12-04 16:30:46","D8":"test"},{"D1":"DP151204162801368","D2":"BDA","D13":"demo","D14":"2015-12-04 16:28:01","D8":"test"}],"D44":"1"}
+ 2015-12-11 17:51:35,257 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 17:51:35,262 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 17:51:35,265 - Transaction cost time: 7
+ 2015-12-11 17:51:35,266 - HTTP_reply>{"D22":[{"D1":"DP151204150752574","D2":"OP","D13":"demo","D14":"2015-12-04 15:07:52","D8":"test"},{"D1":"DP151204150708983","D2":"ABCI","D13":"demo","D14":"2015-12-04 15:07:08","D8":"test"},{"D1":"DP151204150635760","D2":"WinWin","D13":"demo","D14":"2015-12-04 15:06:35","D8":"abc"},{"D1":"DP151204144637641","D2":"Wintech","D13":"ian","D14":"2015-12-04 14:46:37","D8":"test"},{"D1":"DP151204143820102","D2":"CPY","D13":"ian","D14":"2015-12-04 14:38:20","D8":"fyi"},{"D1":"DP151204143741412","D2":"Magusta","D13":"demo","D14":"2015-12-04 14:37:41","D8":"test"},{"D1":"DP151204141907045","D2":"DAS","D13":"demo","D14":"2015-12-04 14:19:07","D8":"test"},{"D1":"DP151204141237983","D2":"ABCI","D13":"demo","D14":"2015-12-04 14:12:37","D8":"t4est"},{"D1":"DP151204140932359","D2":"CCBI","D13":"demo","D14":"2015-12-04 14:09:32","D8":"test"},{"D1":"DP151204135218892","D2":"ABCI","D13":"demo","D14":"2015-12-04 13:52:18","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:17:36,749 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:17:36,844 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:17:36,844 - Transaction cost time: 94
+ 2015-12-11 18:17:36,845 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:17:45,115 - session 0 open.
+ 2015-12-11 18:17:45,121 - session 0>{"msgID":"ian1449829065062","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 18:17:45,486 - >session 0:{"msgID":"ian1449829065062","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 18:17:45,487 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:17:45,847 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:17:45,848 - Transaction cost time: 361
+ 2015-12-11 18:17:46,046 - >session 0:{"msgID":"ian1449829065062","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 18:17:46,050 - session 0>{"msgID":"ian1449829065062","action":"1","status":"confirmed","body":""}
+ 2015-12-11 18:17:46,053 - ian1449829065062 was removed from Redis
+ 2015-12-11 18:17:49,822 - session 0 close.
+ 2015-12-11 18:24:29,830 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:24:29,834 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:24:29,847 - Transaction cost time: 16
+ 2015-12-11 18:24:29,853 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:25:28,061 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:25:28,186 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:25:28,186 - Transaction cost time: 120
+ 2015-12-11 18:25:28,187 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:25:34,197 - session 1 open.
+ 2015-12-11 18:25:34,204 - session 1>{"msgID":"ian1449829534202","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 18:25:34,209 - >session 1:{"msgID":"ian1449829534202","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 18:25:34,209 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:25:34,210 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:25:34,211 - Transaction cost time: 1
+ 2015-12-11 18:25:34,221 - >session 1:{"msgID":"ian1449829534202","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 18:25:34,224 - session 1>{"msgID":"ian1449829534202","action":"1","status":"confirmed","body":""}
+ 2015-12-11 18:25:34,225 - ian1449829534202 was removed from Redis
+ 2015-12-11 18:25:37,526 - session 1 close.
+ 2015-12-11 18:26:03,806 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:26:03,811 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:26:03,814 - Transaction cost time: 8
+ 2015-12-11 18:26:03,815 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:40:14,774 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:40:14,784 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:40:14,785 - Transaction cost time: 9
+ 2015-12-11 18:40:14,786 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:41:25,222 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:41:25,343 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:41:25,344 - Transaction cost time: 121
+ 2015-12-11 18:41:25,344 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:42:50,313 - initial SQLServer configuration done!
+ 2015-12-11 18:42:51,218 - Inital Connection pool Done!
+ 2015-12-11 18:42:51,261 - Redis intial done!
+ 2015-12-11 18:42:51,261 - service started!
+ 2015-12-11 18:43:00,165 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:43:00,505 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:43:00,507 - Transaction cost time: 340
+ 2015-12-11 18:43:00,509 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:43:08,846 - session 0 open.
+ 2015-12-11 18:44:06,493 - session 0 close.
+ 2015-12-11 18:44:07,432 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:44:07,440 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:44:07,442 - Transaction cost time: 9
+ 2015-12-11 18:44:07,443 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:44:15,356 - session 1 open.
+ 2015-12-11 18:45:19,739 - session 2 open.
+ 2015-12-11 18:46:06,284 - session 1 close.
+ 2015-12-11 18:46:06,290 - session 2 close.
+ 2015-12-11 18:46:31,960 - initial SQLServer configuration done!
+ 2015-12-11 18:46:32,785 - Inital Connection pool Done!
+ 2015-12-11 18:46:32,828 - Redis intial done!
+ 2015-12-11 18:46:32,828 - service started!
+ 2015-12-11 18:46:44,677 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:46:45,037 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:46:45,038 - Transaction cost time: 360
+ 2015-12-11 18:46:45,044 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:46:54,644 - session 0 open.
+ 2015-12-11 18:48:10,793 - initial SQLServer configuration done!
+ 2015-12-11 18:48:11,628 - Inital Connection pool Done!
+ 2015-12-11 18:48:11,671 - Redis intial done!
+ 2015-12-11 18:48:11,671 - service started!
+ 2015-12-11 18:48:22,516 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:48:22,936 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:48:22,937 - Transaction cost time: 416
+ 2015-12-11 18:48:22,938 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:48:27,960 - session 0 open.
+ 2015-12-11 18:50:04,664 - initial SQLServer configuration done!
+ 2015-12-11 18:50:05,475 - Inital Connection pool Done!
+ 2015-12-11 18:50:05,522 - Redis intial done!
+ 2015-12-11 18:50:05,524 - service started!
+ 2015-12-11 18:50:24,422 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:50:24,696 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:50:24,697 - Transaction cost time: 274
+ 2015-12-11 18:50:24,698 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:50:35,037 - session 0 open.
+ 2015-12-11 18:51:34,129 - session 0
+ java.io.IOException: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:276)
+	at org.apache.tomcat.websocket.WsSession.sendCloseMessage(WsSession.java:536)
+	at org.apache.tomcat.websocket.WsSession.onClose(WsSession.java:490)
+	at org.apache.tomcat.websocket.WsFrameBase.processDataControl(WsFrameBase.java:342)
+	at org.apache.tomcat.websocket.WsFrameBase.processData(WsFrameBase.java:284)
+	at org.apache.tomcat.websocket.WsFrameBase.processInputBuffer(WsFrameBase.java:130)
+	at org.apache.tomcat.websocket.server.WsFrameServer.onDataAvailable(WsFrameServer.java:60)
+	at org.apache.tomcat.websocket.server.WsHttpUpgradeHandler$WsReadListener.onDataAvailable(WsHttpUpgradeHandler.java:203)
+	at org.apache.coyote.http11.upgrade.AbstractServletInputStream.onDataAvailable(AbstractServletInputStream.java:194)
+	at org.apache.coyote.http11.upgrade.AbstractProcessor.upgradeDispatch(AbstractProcessor.java:95)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:653)
+	at org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:222)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1556)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1513)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.FutureToSendHandler.get(FutureToSendHandler.java:102)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:269)
+	... 17 more
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:127)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:184)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWriteInternal(NioServletOutputStream.java:94)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWrite(NioServletOutputStream.java:61)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.writeInternal(AbstractServletOutputStream.java:162)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.write(AbstractServletOutputStream.java:129)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.onWritePossible(WsRemoteEndpointImplServer.java:99)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.doWrite(WsRemoteEndpointImplServer.java:81)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.writeMessagePart(WsRemoteEndpointImplBase.java:444)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessage(WsRemoteEndpointImplBase.java:335)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:264)
+	... 17 more
+2015-12-11 18:51:34,268 - session 0 close.
+ 2015-12-11 18:51:37,992 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:51:38,019 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:51:38,019 - Transaction cost time: 27
+ 2015-12-11 18:51:38,020 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:51:43,522 - session 1 open.
+ 2015-12-11 18:52:14,770 - session 1
+ java.io.IOException: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:276)
+	at org.apache.tomcat.websocket.WsSession.sendCloseMessage(WsSession.java:536)
+	at org.apache.tomcat.websocket.WsSession.onClose(WsSession.java:490)
+	at org.apache.tomcat.websocket.WsFrameBase.processDataControl(WsFrameBase.java:342)
+	at org.apache.tomcat.websocket.WsFrameBase.processData(WsFrameBase.java:284)
+	at org.apache.tomcat.websocket.WsFrameBase.processInputBuffer(WsFrameBase.java:130)
+	at org.apache.tomcat.websocket.server.WsFrameServer.onDataAvailable(WsFrameServer.java:60)
+	at org.apache.tomcat.websocket.server.WsHttpUpgradeHandler$WsReadListener.onDataAvailable(WsHttpUpgradeHandler.java:203)
+	at org.apache.coyote.http11.upgrade.AbstractServletInputStream.onDataAvailable(AbstractServletInputStream.java:194)
+	at org.apache.coyote.http11.upgrade.AbstractProcessor.upgradeDispatch(AbstractProcessor.java:95)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:653)
+	at org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:222)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1556)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1513)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.FutureToSendHandler.get(FutureToSendHandler.java:102)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:269)
+	... 17 more
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:127)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:184)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWriteInternal(NioServletOutputStream.java:94)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWrite(NioServletOutputStream.java:61)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.writeInternal(AbstractServletOutputStream.java:162)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.write(AbstractServletOutputStream.java:129)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.onWritePossible(WsRemoteEndpointImplServer.java:99)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.doWrite(WsRemoteEndpointImplServer.java:81)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.writeMessagePart(WsRemoteEndpointImplBase.java:444)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessage(WsRemoteEndpointImplBase.java:335)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:264)
+	... 17 more
+2015-12-11 18:52:14,810 - session 1 close.
+ 2015-12-11 18:52:35,666 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:52:35,689 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:52:35,689 - Transaction cost time: 19
+ 2015-12-11 18:52:35,690 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:53:03,644 - session 2 open.
+ 2015-12-11 18:54:26,930 - session 2
+ java.io.IOException: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:276)
+	at org.apache.tomcat.websocket.WsSession.sendCloseMessage(WsSession.java:536)
+	at org.apache.tomcat.websocket.WsSession.onClose(WsSession.java:490)
+	at org.apache.tomcat.websocket.WsFrameBase.processDataControl(WsFrameBase.java:342)
+	at org.apache.tomcat.websocket.WsFrameBase.processData(WsFrameBase.java:284)
+	at org.apache.tomcat.websocket.WsFrameBase.processInputBuffer(WsFrameBase.java:130)
+	at org.apache.tomcat.websocket.server.WsFrameServer.onDataAvailable(WsFrameServer.java:60)
+	at org.apache.tomcat.websocket.server.WsHttpUpgradeHandler$WsReadListener.onDataAvailable(WsHttpUpgradeHandler.java:203)
+	at org.apache.coyote.http11.upgrade.AbstractServletInputStream.onDataAvailable(AbstractServletInputStream.java:194)
+	at org.apache.coyote.http11.upgrade.AbstractProcessor.upgradeDispatch(AbstractProcessor.java:95)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:653)
+	at org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:222)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1556)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1513)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.FutureToSendHandler.get(FutureToSendHandler.java:102)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:269)
+	... 17 more
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:127)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:184)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWriteInternal(NioServletOutputStream.java:94)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWrite(NioServletOutputStream.java:61)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.writeInternal(AbstractServletOutputStream.java:162)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.write(AbstractServletOutputStream.java:129)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.onWritePossible(WsRemoteEndpointImplServer.java:99)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.doWrite(WsRemoteEndpointImplServer.java:81)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.writeMessagePart(WsRemoteEndpointImplBase.java:444)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessage(WsRemoteEndpointImplBase.java:335)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:264)
+	... 17 more
+2015-12-11 18:54:26,935 - session 2 close.
+ 2015-12-11 18:54:43,825 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:54:43,831 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:54:43,840 - Transaction cost time: 14
+ 2015-12-11 18:54:43,841 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:54:49,086 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:54:49,099 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:54:49,100 - Transaction cost time: 14
+ 2015-12-11 18:54:49,101 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:54:54,131 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 18:54:54,142 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 18:54:54,142 - Transaction cost time: 10
+ 2015-12-11 18:54:54,143 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 18:55:03,605 - session 3 open.
+ 2015-12-11 18:59:52,965 - session 3 close.
+ 2015-12-11 19:00:23,248 - initial SQLServer configuration done!
+ 2015-12-11 19:00:24,000 - Inital Connection pool Done!
+ 2015-12-11 19:00:24,043 - Redis intial done!
+ 2015-12-11 19:00:24,043 - service started!
+ 2015-12-11 19:01:49,330 - initial SQLServer configuration done!
+ 2015-12-11 19:01:50,124 - Inital Connection pool Done!
+ 2015-12-11 19:01:50,167 - Redis intial done!
+ 2015-12-11 19:01:50,167 - service started!
+ 2015-12-11 19:02:44,947 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 19:02:45,313 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 19:02:45,313 - Transaction cost time: 364
+ 2015-12-11 19:02:45,315 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 19:02:51,383 - session 0 open.
+ 2015-12-11 21:40:23,929 - initial SQLServer configuration done!
+ 2015-12-11 21:40:25,163 - Inital Connection pool Done!
+ 2015-12-11 21:40:25,205 - Redis intial done!
+ 2015-12-11 21:40:25,205 - service started!
+ 2015-12-11 21:40:41,896 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:40:42,693 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:40:42,694 - Transaction cost time: 796
+ 2015-12-11 21:40:42,696 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:40:50,926 - session 0 open.
+ 2015-12-11 21:41:02,577 - session 0>{"msgID":"ian1449841262574","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 21:41:02,607 - >session 0:{"msgID":"ian1449841262574","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 21:41:02,609 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:41:02,642 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:41:02,642 - Transaction cost time: 32
+ 2015-12-11 21:41:02,671 - >session 0:{"msgID":"ian1449841262574","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 21:41:02,676 - session 0>{"msgID":"ian1449841262574","action":"1","status":"confirmed","body":""}
+ 2015-12-11 21:41:02,678 - ian1449841262574 was removed from Redis
+ 2015-12-11 21:42:40,000 - session 0 close.
+ 2015-12-11 21:42:41,062 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:42:41,156 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:42:41,168 - Transaction cost time: 71
+ 2015-12-11 21:42:41,174 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:42:49,828 - session 1 open.
+ 2015-12-11 21:42:56,218 - session 1>{"msgID":"ian1449841376216","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 21:42:56,222 - >session 1:{"msgID":"ian1449841376216","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 21:42:56,222 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:42:56,226 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:42:56,226 - Transaction cost time: 3
+ 2015-12-11 21:42:56,237 - >session 1:{"msgID":"ian1449841376216","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 21:42:56,251 - session 1>{"msgID":"ian1449841376216","action":"1","status":"confirmed","body":""}
+ 2015-12-11 21:42:56,252 - ian1449841376216 was removed from Redis
+ 2015-12-11 21:44:11,918 - session 1 close.
+ 2015-12-11 21:44:13,055 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:44:13,094 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:44:13,110 - Transaction cost time: 36
+ 2015-12-11 21:44:13,115 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:44:22,920 - session 2 open.
+ 2015-12-11 21:44:26,998 - session 2>{"msgID":"ian1449841466996","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 21:44:27,001 - >session 2:{"msgID":"ian1449841466996","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 21:44:27,002 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:44:27,004 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:44:27,004 - Transaction cost time: 1
+ 2015-12-11 21:44:27,013 - >session 2:{"msgID":"ian1449841466996","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 21:44:27,031 - session 2>{"msgID":"ian1449841466996","action":"1","status":"confirmed","body":""}
+ 2015-12-11 21:44:27,032 - ian1449841466996 was removed from Redis
+ 2015-12-11 21:44:53,559 - session 2 close.
+ 2015-12-11 21:44:55,393 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:44:55,433 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:44:55,434 - Transaction cost time: 21
+ 2015-12-11 21:44:55,435 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:45:11,518 - initial SQLServer configuration done!
+ 2015-12-11 21:45:12,285 - Inital Connection pool Done!
+ 2015-12-11 21:45:12,328 - Redis intial done!
+ 2015-12-11 21:45:12,328 - service started!
+ 2015-12-11 21:45:32,661 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:45:32,927 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:45:32,928 - Transaction cost time: 255
+ 2015-12-11 21:45:32,929 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:46:59,920 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:46:59,953 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:46:59,963 - Transaction cost time: 35
+ 2015-12-11 21:46:59,964 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:47:14,128 - session 0 open.
+ 2015-12-11 21:47:18,514 - session 0>{"msgID":"ian1449841638512","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 21:47:18,547 - >session 0:{"msgID":"ian1449841638512","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 21:47:18,547 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:47:18,548 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:47:18,549 - Transaction cost time: 1
+ 2015-12-11 21:47:18,578 - >session 0:{"msgID":"ian1449841638512","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 21:47:18,582 - session 0>{"msgID":"ian1449841638512","action":"1","status":"confirmed","body":""}
+ 2015-12-11 21:47:18,584 - ian1449841638512 was removed from Redis
+ 2015-12-11 21:48:13,234 - session 0
+ java.io.IOException: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:276)
+	at org.apache.tomcat.websocket.WsSession.sendCloseMessage(WsSession.java:536)
+	at org.apache.tomcat.websocket.WsSession.onClose(WsSession.java:490)
+	at org.apache.tomcat.websocket.WsFrameBase.processDataControl(WsFrameBase.java:342)
+	at org.apache.tomcat.websocket.WsFrameBase.processData(WsFrameBase.java:284)
+	at org.apache.tomcat.websocket.WsFrameBase.processInputBuffer(WsFrameBase.java:130)
+	at org.apache.tomcat.websocket.server.WsFrameServer.onDataAvailable(WsFrameServer.java:60)
+	at org.apache.tomcat.websocket.server.WsHttpUpgradeHandler$WsReadListener.onDataAvailable(WsHttpUpgradeHandler.java:203)
+	at org.apache.coyote.http11.upgrade.AbstractServletInputStream.onDataAvailable(AbstractServletInputStream.java:194)
+	at org.apache.coyote.http11.upgrade.AbstractProcessor.upgradeDispatch(AbstractProcessor.java:95)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:653)
+	at org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:222)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1556)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1513)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.concurrent.ExecutionException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.tomcat.websocket.FutureToSendHandler.get(FutureToSendHandler.java:102)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:269)
+	... 17 more
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:127)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:184)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWriteInternal(NioServletOutputStream.java:94)
+	at org.apache.coyote.http11.upgrade.NioServletOutputStream.doWrite(NioServletOutputStream.java:61)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.writeInternal(AbstractServletOutputStream.java:162)
+	at org.apache.coyote.http11.upgrade.AbstractServletOutputStream.write(AbstractServletOutputStream.java:129)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.onWritePossible(WsRemoteEndpointImplServer.java:99)
+	at org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer.doWrite(WsRemoteEndpointImplServer.java:81)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.writeMessagePart(WsRemoteEndpointImplBase.java:444)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessage(WsRemoteEndpointImplBase.java:335)
+	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.startMessageBlock(WsRemoteEndpointImplBase.java:264)
+	... 17 more
+2015-12-11 21:48:13,394 - session 0 close.
+ 2015-12-11 21:48:18,493 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:48:18,528 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:48:18,529 - Transaction cost time: 19
+ 2015-12-11 21:48:18,530 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:48:32,657 - session 1 open.
+ 2015-12-11 21:49:48,784 - session 1 close.
+ 2015-12-11 21:49:49,724 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:49:49,775 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:49:49,779 - Transaction cost time: 55
+ 2015-12-11 21:49:49,789 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:50:13,182 - session 2 open.
+ 2015-12-11 21:50:17,011 - session 2>{"msgID":"ian1449841817011","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 21:50:17,014 - >session 2:{"msgID":"ian1449841817011","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 21:50:17,015 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:50:17,022 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:50:17,040 - Transaction cost time: 25
+ 2015-12-11 21:50:17,049 - >session 2:{"msgID":"ian1449841817011","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 21:50:17,053 - session 2>{"msgID":"ian1449841817011","action":"1","status":"confirmed","body":""}
+ 2015-12-11 21:50:17,055 - ian1449841817011 was removed from Redis
+ 2015-12-11 21:51:42,862 - session 2 close.
+ 2015-12-11 21:51:43,823 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:51:43,826 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:51:43,826 - Transaction cost time: 3
+ 2015-12-11 21:51:43,827 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:51:54,243 - session 3 open.
+ 2015-12-11 21:51:58,655 - session 4 open.
+ 2015-12-11 21:57:47,827 - session 4 close.
+ 2015-12-11 21:57:47,857 - session 3 close.
+ 2015-12-11 21:57:48,752 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:57:48,818 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:57:48,822 - Transaction cost time: 70
+ 2015-12-11 21:57:48,822 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 21:58:01,940 - session 5 open.
+ 2015-12-11 21:58:01,969 - session 5>{"msgID":"ian1449842281959","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 21:58:01,982 - >session 5:{"msgID":"ian1449842281959","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 21:58:01,983 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 21:58:01,985 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 21:58:01,986 - Transaction cost time: 3
+ 2015-12-11 21:58:01,993 - >session 5:{"msgID":"ian1449842281959","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 21:58:02,011 - session 5>{"msgID":"ian1449842281959","action":"1","status":"confirmed","body":""}
+ 2015-12-11 21:58:02,012 - ian1449842281959 was removed from Redis
+ 2015-12-11 22:00:07,586 - session 5 close.
+ 2015-12-11 22:00:08,581 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:00:08,613 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:00:08,620 - Transaction cost time: 35
+ 2015-12-11 22:00:08,620 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:00:15,957 - session 6 open.
+ 2015-12-11 22:00:15,977 - session 6>{"msgID":"ian1449842415968","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:00:15,992 - >session 6:{"msgID":"ian1449842415968","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:00:16,011 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:00:16,017 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:00:16,018 - Transaction cost time: 6
+ 2015-12-11 22:00:16,026 - >session 6:{"msgID":"ian1449842415968","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:00:16,032 - session 6>{"msgID":"ian1449842415968","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:00:16,041 - ian1449842415968 was removed from Redis
+ 2015-12-11 22:00:20,381 - session 6 close.
+ 2015-12-11 22:02:44,068 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:02:44,099 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:02:44,100 - Transaction cost time: 31
+ 2015-12-11 22:02:44,100 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:03:03,749 - session 7 open.
+ 2015-12-11 22:03:03,781 - session 7>{"msgID":"ian1449842583757","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:03:03,787 - >session 7:{"msgID":"ian1449842583757","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:03:03,788 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:03:03,794 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:03:03,794 - Transaction cost time: 6
+ 2015-12-11 22:03:03,805 - >session 7:{"msgID":"ian1449842583757","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:03:03,829 - session 7>{"msgID":"ian1449842583757","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:03:03,832 - ian1449842583757 was removed from Redis
+ 2015-12-11 22:03:06,019 - session 7 close.
+ 2015-12-11 22:04:40,372 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:04:40,427 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:04:40,427 - Transaction cost time: 48
+ 2015-12-11 22:04:40,427 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:05:03,781 - session 8 open.
+ 2015-12-11 22:05:03,788 - session 8>{"msgID":"ian1449842703784","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:05:03,794 - >session 8:{"msgID":"ian1449842703784","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:05:03,802 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:05:03,811 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:05:03,813 - Transaction cost time: 11
+ 2015-12-11 22:05:03,822 - >session 8:{"msgID":"ian1449842703784","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:05:03,827 - session 8>{"msgID":"ian1449842703784","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:05:03,829 - ian1449842703784 was removed from Redis
+ 2015-12-11 22:05:06,826 - session 8 close.
+ 2015-12-11 22:06:00,956 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:06:01,032 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:06:01,052 - Transaction cost time: 73
+ 2015-12-11 22:06:01,052 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:06:08,233 - session 9 open.
+ 2015-12-11 22:06:08,254 - session 9>{"msgID":"ian1449842768253","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:06:08,260 - >session 9:{"msgID":"ian1449842768253","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:06:08,278 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:06:08,280 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:06:08,281 - Transaction cost time: 2
+ 2015-12-11 22:06:08,288 - >session 9:{"msgID":"ian1449842768253","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:06:08,294 - session 9>{"msgID":"ian1449842768253","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:06:08,296 - ian1449842768253 was removed from Redis
+ 2015-12-11 22:06:10,725 - session 9 close.
+ 2015-12-11 22:08:49,775 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:08:49,867 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:08:49,867 - Transaction cost time: 65
+ 2015-12-11 22:08:49,868 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:09:00,808 - session a open.
+ 2015-12-11 22:09:00,809 - session a>{"msgID":"ian1449842940806","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:09:00,824 - >session a:{"msgID":"ian1449842940806","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:09:00,831 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:09:00,833 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:09:00,833 - Transaction cost time: 2
+ 2015-12-11 22:09:00,841 - >session a:{"msgID":"ian1449842940806","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:09:00,846 - session a>{"msgID":"ian1449842940806","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:09:00,857 - ian1449842940806 was removed from Redis
+ 2015-12-11 22:09:05,020 - session a close.
+ 2015-12-11 22:21:36,692 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:21:36,698 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:21:36,712 - Transaction cost time: 19
+ 2015-12-11 22:21:36,714 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:22:32,472 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:22:32,500 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:22:32,500 - Transaction cost time: 15
+ 2015-12-11 22:22:32,502 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:22:53,176 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:22:53,308 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:22:53,310 - Transaction cost time: 89
+ 2015-12-11 22:22:53,310 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:23:39,019 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:23:39,024 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:23:39,025 - Transaction cost time: 5
+ 2015-12-11 22:23:39,025 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:24:51,615 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:24:51,744 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:24:51,764 - Transaction cost time: 113
+ 2015-12-11 22:24:51,778 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:25:02,588 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:25:02,601 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:25:02,602 - Transaction cost time: 13
+ 2015-12-11 22:25:02,603 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:25:12,289 - session b open.
+ 2015-12-11 22:25:12,319 - session b>{"msgID":"ian1449843912307","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:25:12,333 - >session b:{"msgID":"ian1449843912307","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:25:12,351 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:25:12,355 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:25:12,356 - Transaction cost time: 4
+ 2015-12-11 22:25:12,370 - >session b:{"msgID":"ian1449843912307","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:25:12,392 - session b>{"msgID":"ian1449843912307","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:25:12,404 - ian1449843912307 was removed from Redis
+ 2015-12-11 22:25:14,925 - session b close.
+ 2015-12-11 22:26:36,141 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:26:36,186 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:26:36,187 - Transaction cost time: 29
+ 2015-12-11 22:26:36,187 - HTTP_reply>{"D22":[{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"},{"D1":"DP151207113029243","D2":"CSC","D13":"demo","D14":"2015-12-07 11:30:29","D8":"tst"},{"D1":"DP151207112510082","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:25:10","D8":"test"},{"D1":"DP151207112437719","D2":"CC","D13":"demo","D14":"2015-12-07 11:24:37","D8":"test"},{"D1":"DP151207104811022","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:48:11","D8":"test"},{"D1":"DP151207104359916","D2":"CheongLee","D13":"demo","D14":"2015-12-07 10:43:59","D8":"test"},{"D1":"DP151207104215571","D2":"ABCI","D13":"demo","D14":"2015-12-07 10:42:15","D8":"test"}],"D44":"1"}
+ 2015-12-11 22:26:44,553 - session c open.
+ 2015-12-11 22:26:44,571 - session c>{"msgID":"ian1449844004570","action":"1","status":"new","body":{"U1":"ian","U2":"1234"}}
+ 2015-12-11 22:26:44,578 - >session c:{"msgID":"ian1449844004570","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:26:44,597 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:26:44,599 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:26:44,600 - Transaction cost time: 2
+ 2015-12-11 22:26:44,607 - >session c:{"msgID":"ian1449844004570","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:26:44,626 - session c>{"msgID":"ian1449844004570","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:26:44,647 - ian1449844004570 was removed from Redis
+ 2015-12-11 22:26:47,039 - session c close.
+ 2015-12-11 22:26:56,860 - session d open.
+ 2015-12-11 22:26:56,914 - session d>{"msgID":"demo1449844016865","action":"1","status":"new","body":{"U1":"demo","U2":"1234"}}
+ 2015-12-11 22:26:56,999 - >session d:{"msgID":"demo1449844016865","action":"1","status":"received","errorCode":"0"}
+ 2015-12-11 22:26:57,010 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-11 22:26:57,086 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-11 22:26:57,087 - Transaction cost time: 77
+ 2015-12-11 22:26:57,102 - >session d:{"msgID":"demo1449844016865","action":"1","status":"replied","errorCode":"1"}
+ 2015-12-11 22:26:57,106 - session d>{"msgID":"demo1449844016865","action":"1","status":"confirmed","body":""}
+ 2015-12-11 22:26:57,108 - demo1449844016865 was removed from Redis
+ 

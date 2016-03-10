@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="./css/bootstrap.css">
+<title>ProductMaster</title>
+</head>
+<body>
+	<div align="center"
+		style="margin-top: 2%; margin-bottom: 2%; margin-left: 30%; margin-right: 30%">
+		<div class="form-inline" style="padding-bottom: 5%;">
+			<select id="D2" class="span3"></select>
+			<div class="input-append">
+				<input class="span2" id="D3" type="text" placeholder="select server">
+				<div class="btn-group">
+					<button id="loadServer" class="btn dropdown-toggle"
+						data-toggle="dropdown">
+						<span class="caret"></span>
+					</button>
+					<ul id="servers" class="dropdown-menu">
+					</ul>
+				</div>
+			</div>
+			<button id="search" class="btn">Query</button>
+		</div>
+		<div id="D2_err" style="color: red"></div>
+		<div id="D3_err" style="color: red"></div>
+		<table id="productMaster" class="table table-bordered table-striped"></table>
+	</div>
+</body>
+<script data-main="js/productMaster_conf" src="js/require.js"></script>
+</html>

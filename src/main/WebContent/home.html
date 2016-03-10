@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="./css/bootstrap.css">
+<title>home</title>
+<style>
+iframe {
+	margin-top: 5%;
+	width: 100%;
+	height: 300;
+	border: 0px;
+	scrolling: no;
+	align: center
+}
+</style>
+</head>
+<body>
+	<div style="position: fixed; left: 0; top: 0; width: 100%">
+		<div class="navbar">
+			<div class="navbar-inner">
+				<div class="container">
+					<ul class="nav">
+						<li class="active" id="home"><a>Deployments</a></li>
+						<li><a id="PM">ClientInfo</a></li>
+						<li><a id="deploy">Deploy</a></li>
+						<li><a id="readMe">ReadMe</a></li>
+					</ul>
+					<form class="navbar-search form-search pull-left">
+						<div class="input-append form-inline">
+							<input id="keyword" type="text" class="span2 search-query"
+								placeholder="DeployID or Client">
+							<button id="search" class="btn">Search</button>
+						</div>
+					</form>
+					<div id="inout" class="form-inline navbar-form pull-right"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="form-inline" id="test">
+		<iframe src="" id="subPage"></iframe>
+		<div id="gotop" style="float: right"></div>
+	</div>
+
+</body>
+
+<script data-main="js/home_conf" src="js/require.js"></script>
+<script id="login_box_tpl" type="text/template">
+<div id="loginBox">
+	<input type="text" class="input-small" placeholder="Name" id="name">
+	<input type="password" class="input-small" placeholder="Password"
+		id="pwd">
+	<div class="btn-group" id="loginButton">
+		<button class="btn" id="verify_login">Login</button>
+		<button class="btn dropdown-toggle" data-toggle="dropdown">
+			<span class="caret"></span>
+		</button>
+		<ul class="dropdown-menu">
+			<li><a href="./register.html">Register</a></li>
+		</ul>
+	</div>
+</div>
+</script>
+<script id="logout_box_tpl" type="text/template">
+<div id='logoutBox' class="btn-group">
+  <a class="btn" id='username'><i class="icon-user icon-white"></i></a>
+  <a class="btn dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></a>
+  <ul class="dropdown-menu">
+    <li id="logout"><a>Logout</a></li>
+  </ul>
+</div>
+</script>
+</html>

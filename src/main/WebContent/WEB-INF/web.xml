@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>luck</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+	<context-param>
+		<param-name>sqlServerPath</param-name>
+		<param-value>jdbc:sqlserver://localhost:1433;databaseName=SupportInternal</param-value>
+	</context-param>
+	<context-param>
+		<param-name>isDebug</param-name>
+		<param-value>y</param-value>
+	</context-param>
+	<context-param>
+		<param-name>sqlServerUsername</param-name>
+		<param-value>sa</param-value>
+	</context-param>
+	<context-param>
+		<param-name>sqlServerPassword</param-name>
+		<param-value>123456Zy</param-value>
+	</context-param>
+	<context-param>
+		<param-name>log4jPropertiesPath</param-name>
+		<param-value>D:/Tomcat 8.0/webapps/redDevil/log4j.properties</param-value>
+	</context-param>
+	<servlet>
+		<servlet-name>registerSev</servlet-name>
+		<servlet-class>com.cnme.backend.redDevil.web.HandleRegister</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>registerSev</servlet-name>
+		<url-pattern>/doRegister</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>loadDeploymentSev</servlet-name>
+		<servlet-class>com.cnme.backend.redDevil.web.HandleDeployments</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>loadDeploymentSev</servlet-name>
+		<url-pattern>/deployments</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>loadProductMasterSev</servlet-name>
+		<servlet-class>com.cnme.backend.redDevil.web.HandleProductMaster</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>loadProductMasterSev</servlet-name>
+		<url-pattern>/productMaster</url-pattern>
+	</servlet-mapping>
+</web-app>

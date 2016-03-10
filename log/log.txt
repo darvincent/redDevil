@@ -1,0 +1,16 @@
+2015-12-30 09:46:53,879 - initial SQLServer configuration done!
+ 2015-12-30 09:46:57,767 - Inital Connection pool Done!
+ 2015-12-30 09:46:57,844 - Redis intial done!
+ 2015-12-30 09:46:57,864 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-30 09:46:58,825 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-30 09:46:58,826 - Transaction cost time: 961
+ 2015-12-30 09:46:58,903 - service started!
+ 2015-12-30 09:47:06,999 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-30 09:47:07,005 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-30 09:47:07,005 - Transaction cost time: 5
+ 2015-12-30 09:47:07,007 - HTTP_reply>{"D22":[{"D1":"DP151221114541535","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:45:41","D8":"test"},{"D1":"DP151221114257375","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:42:57","D8":"test"},{"D1":"DP151221113733478","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:37:33","D8":"test"},{"D1":"DP151221113728997","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:37:28","D8":"test"},{"D1":"DP151221113455820","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:34:55","D8":"test"},{"D1":"DP151221113452410","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:34:52","D8":"test"},{"D1":"DP151214181522853","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:15:22","D8":"test"},{"D1":"DP151214181440156","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:14:40","D8":"test"},{"D1":"DP151214181352873","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:13:52","D8":"test"},{"D1":"DP151214181343354","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:13:43","D8":"test"}],"D44":"1"}
+ 2015-12-30 09:47:26,818 - One connection was applied for from Connection pool! Remain 9 connections
+ 2015-12-30 09:47:26,899 - One connection was released to Connection pool! Remain 10 connections
+ 2015-12-30 09:47:26,900 - Transaction cost time: 82
+ 2015-12-30 09:47:26,902 - HTTP_reply>{"D22":[{"D1":"DP151221114541535","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:45:41","D8":"test"},{"D1":"DP151221114257375","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:42:57","D8":"test"},{"D1":"DP151221113733478","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:37:33","D8":"test"},{"D1":"DP151221113728997","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:37:28","D8":"test"},{"D1":"DP151221113455820","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:34:55","D8":"test"},{"D1":"DP151221113452410","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:34:52","D8":"test"},{"D1":"DP151214181522853","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:15:22","D8":"test"},{"D1":"DP151214181440156","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:14:40","D8":"test"},{"D1":"DP151214181352873","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:13:52","D8":"test"},{"D1":"DP151214181343354","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:13:43","D8":"test"}],"D44":"1"}
+ 

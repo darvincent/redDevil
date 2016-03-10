@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Deploy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="./css/bootstrap.css">
+</head>
+<body>
+	<div class="control-group" align="center"
+		style="margin-left: 30%; margin-right: 30%; margin-top: 2%">
+		<div id="properties"></div>
+		<button class="btn" id="deploy">Submit</button>
+	</div>
+</body>
+<script data-main="js/deploy_conf" src="js/require.js"></script>
+<script id="boxes" type="text/template">
+{@each sets as set}
+	<div id=${set.name} class="hero-unit_ian">
+	{@each set.inner as it}
+		 <h5 id=${it.UIKey}>${it.UIKey}</h5>
+ 	 	 {@if it.Type == "1"}
+			<input class="span3" type="text" id=${it.JSONKey}>
+    	{@else if it.Type == "2"}
+			<select id=${it.JSONKey} class="span3"></select>
+  	  	{@else if it.Type == "3"}
+					<select id=${it.JSONKey} class="span3">
+						{@each it.Options as option}
+							<option>
+								${option}
+							</option>
+						{@/each}
+					</select>	
+		{@else if it.Type == "4"}
+			<textarea id=${it.JSONKey} rows="10" class="comment" align="center"></textarea>
+		{@else if it.Type == "5"}
+			<div class="input-append">
+				<input class="span2" id=${it.JSONKey} type="text">
+				<div class="btn-group">
+					<button id=${it.button_Key} class="btn dropdown-toggle" data-toggle="dropdown">
+						<span class="caret"></span>
+					</button>
+					<ul id=${it.ul_Key} class="dropdown-menu">
+					</ul>
+				</div>
+			</div>
+		{@else if it.Type == "6"}
+			<div class="form-inline">
+				<select id=${it.JSONKey} class="span3"></select>
+				<button class="btn" id=${it.button_Key}>add</button>
+			</div>
+			<div id="items" style="margin-right: 22%; margin-top: 2%;text-align:right"></div>
+  	  	{@/if}
+		{@if it.ErrorKey !=''}
+			<div id=${it.ErrorKey} style="color:red"></div>	
+		{@/if}
+	{@/each}
+	</div><br />
+{@/each}
+</script>
+<script id="oneItem" type="text/template">
+	<br /><br />
+	<div class="form-inline" id="$('#D9').val()">
+		 <input class="input-small from" type="text">  to  <input class="input-small to" type="text">  <button class="btn">cancel</button>
+	</div>
+	<br /><br />
+</script>
+</html>

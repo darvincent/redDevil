@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="./css/bootstrap.css">
+<meta charset="UTF-8">
+<title>Register</title>
+</head>
+<body>
+	<div align="center">
+		<div id="server_feedback" style="margin-top: 2%; margin-bottom: 1%"></div>
+		<form id="info" class="form-inline">
+			<div id="registerForm"></div>
+			<button id="submit" class="btn">register</button>
+		</form>
+	</div>
+</body>
+
+<script id="registerData" type="text/template">
+	{@each textBoxes as item}
+	<div class="controls">
+    {@if item.Type=="3"}
+        <input type="password" id=${item.JSONKey} placeholder=${item.UIKey}>
+    {@else if item.Type == "2"}
+        <input type="password" id=${item.JSONKey} name=${item.JSONKey}  placeholder=${item.UIKey}>
+    {@else}
+        <input type="text" id=${item.JSONKey} name=${item.JSONKey} placeholder=${item.UIKey}>
+    {@/if}	
+	<br />
+	<span id=${item.ResultKey} style="color:red" ></span>
+	</div>
+	<br /><br />
+	{@/each}
+</script>
+
+<script data-main="js/register_conf" src="js/require.js"></script>
+</html>

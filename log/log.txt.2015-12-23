@@ -1,0 +1,53 @@
+2015-12-23 11:16:28,665 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:31,710 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:31,711 - Transaction cost time: 2526
+ 2015-12-23 11:16:31,711 - HTTP_reply>{"D22":[{"D1":"DP151221114541535","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:45:41","D8":"test"},{"D1":"DP151221114257375","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:42:57","D8":"test"},{"D1":"DP151221113733478","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:37:33","D8":"test"},{"D1":"DP151221113728997","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:37:28","D8":"test"},{"D1":"DP151221113455820","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:34:55","D8":"test"},{"D1":"DP151221113452410","D2":"ABCI","D13":"demo","D14":"2015-12-21 11:34:52","D8":"test"},{"D1":"DP151214181522853","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:15:22","D8":"test"},{"D1":"DP151214181440156","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:14:40","D8":"test"},{"D1":"DP151214181352873","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:13:52","D8":"test"},{"D1":"DP151214181343354","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:13:43","D8":"test"}],"D44":"1"}
+ 2015-12-23 11:16:37,684 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:38,368 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:38,368 - Transaction cost time: 683
+ 2015-12-23 11:16:38,368 - HTTP_reply>{"D22":[{"D1":"DP151214180825207","D2":"BDA","D13":"demo","D14":"2015-12-14 18:08:25","D8":"test"},{"D1":"DP151214180520375","D2":"ABCI","D13":"demo","D14":"2015-12-14 18:05:20","D8":"test"},{"D1":"DP151214175933373","D2":"Concord","D13":"demo","D14":"2015-12-14 17:59:33","D8":"test"},{"D1":"DP151214175658397","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:56:58","D8":"test"},{"D1":"DP151214175653799","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:56:53","D8":"test"},{"D1":"DP151214173434225","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:34:34","D8":"test"},{"D1":"DP151214173004694","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:30:04","D8":"yrdy"},{"D1":"DP151214172959755","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:29:59","D8":"yrdy"},{"D1":"DP151214172135303","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:21:35","D8":"test"},{"D1":"DP151214172010601","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:20:10","D8":"test"}],"D44":"1"}
+ 2015-12-23 11:16:41,929 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:42,237 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:42,237 - Transaction cost time: 299
+ 2015-12-23 11:16:42,237 - HTTP_reply>{"D1":"DP151221114541535","D2":"ABCI","D3":"OMS","D4":"Calvin Lo","D5":"high","D6":"Bug Fix","D7":"Production","D11":"amsserver from 1.2.3.7 to 1.2.3.8;","D8":"test","D13":"demo","D14":"2015-12-21 11:45:41","D44":"1"}
+ 2015-12-23 11:16:50,162 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:50,409 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:50,409 - Transaction cost time: 247
+ 2015-12-23 11:16:50,410 - HTTP_reply>{"D22":[{"D1":"DP151214171846085","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:18:46","D8":"test"},{"D1":"DP151214170857233","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:08:57","D8":"test"},{"D1":"DP151214170127352","D2":"ABCI","D13":"demo","D14":"2015-12-14 17:01:27","D8":"test"},{"D1":"DP151214165650282","D2":"BDA","D13":"demo","D14":"2015-12-14 16:56:50","D8":"test"},{"D1":"DP151214165455982","D2":"BDA","D13":"demo","D14":"2015-12-14 16:54:55","D8":"test"},{"D1":"DP151214162342599","D2":"ABCI","D13":"demo","D14":"2015-12-14 16:23:42","D8":"test"},{"D1":"DP151207113940034","D2":"CC","D13":"demo","D14":"2015-12-07 11:39:40","D8":"test"},{"D1":"DP151207113853233","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:38:53","D8":"test"},{"D1":"DP151207113134550","D2":"Enssence","D13":"demo","D14":"2015-12-07 11:31:34","D8":"test"},{"D1":"DP151207113059425","D2":"ABCI","D13":"demo","D14":"2015-12-07 11:30:59","D8":"test"}],"D44":"1"}
+ 2015-12-23 11:16:52,892 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:53,083 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:53,083 - Transaction cost time: 190
+ 2015-12-23 11:16:53,083 - HTTP_reply>{"D18":"ABCI,Ageas,BDA,Berich,CASH,CC,CCBI,CheongLee,ChinaSystem,CICC,CityInt,Concord,CPY,CSC,DAS,DataCenter,DBS Bank,EAA,eBsInternal,Enssence,Excalibur/DeltaWealth,FastTrack,FE,Fubon,Fulbright,Galaxy,Genting,GlobalX,Goldin,GZZQ,H&S,Halcyon,Hoi Tung,HoiTung,HTI,HuaNan,HuaTai,IBTS,Infast,JS,KGI,KGIA,KGI-I,KGIWM,Kingsway,LT,LuenFat,Magusta,MaxRich,Mega,Metro,Munsun,OP,OSK,PME,Polaris,Select,SinopacÓÀ·á½ðÖ¤È¯,SIS,SpeedTrader,Support,TA,TCY,TG,TG-GZS,TOYO,TungTai,Unicorn,UnitedSimsen,VCL,WellHonest,Winfung,WingOn,Winland,Wintech,WinWhole,WinWin,WOC,Wocom,Yicko,YueXiu","D44":"1"}
+ 2015-12-23 11:16:54,430 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:54,642 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:54,643 - Transaction cost time: 212
+ 2015-12-23 11:16:54,643 - load ClientServers failed
+ 2015-12-23 11:16:54,643 - com.microsoft.sqlserver.jdbc.SQLServerException: Connection reset by peer: socket write error
+ 2015-12-23 11:16:54,643 - HTTP_reply>{"D44":"-3"}
+ 2015-12-23 11:16:59,747 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:16:59,776 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:16:59,776 - Transaction cost time: 28
+ 2015-12-23 11:16:59,776 - load ClientServers failed
+ 2015-12-23 11:16:59,776 - com.microsoft.sqlserver.jdbc.SQLServerException: Connection reset by peer: socket write error
+ 2015-12-23 11:16:59,776 - HTTP_reply>{"D44":"-3"}
+ 2015-12-23 11:17:04,309 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:17:04,633 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:17:04,633 - Transaction cost time: 305
+ 2015-12-23 11:17:04,634 - HTTP_reply>{"D19":"CDDS,ITS,OMS","D44":"1"}
+ 2015-12-23 11:17:07,125 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:17:07,348 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:17:07,349 - Transaction cost time: 223
+ 2015-12-23 11:17:07,349 - HTTP_reply>{"D23":[{"D9":"amsserver","D10":"1.2.3.8"},{"D9":"ATS Server","D10":"1.0.0.0"},{"D9":"CDDS","D10":"1.2.3.6"},{"D9":"CTF","D10":"1.2.3.5"},{"D9":"DatabaseCheck","D10":"1.2.3.4"},{"D9":"DC2","D10":"2.2.15.4"},{"D9":"DDS","D10":"1.5.0.0"},{"D9":"EOD","D10":"1.12.2.1"},{"D9":"ITS","D10":"1.13.12.1"}],"D44":"1"}
+ 2015-12-23 11:17:09,426 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:17:09,428 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:17:09,428 - Transaction cost time: 1
+ 2015-12-23 11:17:09,428 - HTTP_reply>{"D19":"CDDS,ITS,OMS","D44":"1"}
+ 2015-12-23 11:17:13,584 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:17:13,651 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:17:13,652 - Transaction cost time: 68
+ 2015-12-23 11:17:13,652 - HTTP_reply>{"D19":"MarginM,OMS","D44":"1"}
+ 2015-12-23 11:17:15,465 - One connection was applied for from Connection pool! Remain 8 connections
+ 2015-12-23 11:17:15,497 - One connection was released to Connection pool! Remain 9 connections
+ 2015-12-23 11:17:15,497 - Transaction cost time: 32
+ 2015-12-23 11:17:15,498 - HTTP_reply>{"D23":[{"D9":"amsserver","D10":"3.2.5.3"},{"D9":"Backup","D10":"1.0.0.7"},{"D9":"BOD","D10":"1.0.1.15"},{"D9":"CRM_client","D10":"1.1.1.5"},{"D9":"CRMWS","D10":"1.0.2.1"},{"D9":"DatabaseCheck","D10":"1.0.0.0"},{"D9":"DC2","D10":"2.2.25.4"},{"D9":"DDS","D10":"1.2.3.7"},{"D9":"HoldFundGateway","D10":"1.0.0.9"},{"D9":"HoldFundRelease","D10":"1.0.1.1"},{"D9":"ITS","D10":"1.15.6.2"},{"D9":"ManuExch","D10":"1.13.17.0"},{"D9":"OMSMidSvr","D10":"1.0.0.8"},{"D9":"OrderServer","D10":"1.13.37.5506"},{"D9":"ORS","D10":"1.0.17.13"},{"D9":"OSKey","D10":"55041-013-5571566-84648"},{"D9":"RiskManager","D10":"1.13.16.0"},{"D9":"Serman","D10":"1.8.1.4"},{"D9":"SSM","D10":"1.9.0.14"},{"D9":"SysAdmin.net","D10":"1.1.3.30"},{"D9":"SysAdminWS","D10":"1.0.3.23"},{"D9":"TradeCollect","D10":"1.2.2.0"},{"D9":"WatchServer","D10":"1.13.28.1"},{"D9":"Windows OS","D10":"64bitserver2008R1"}],"D44":"1"}
+ 
